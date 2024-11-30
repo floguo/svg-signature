@@ -1,4 +1,4 @@
-# SVG Animation Demo
+# SVG Animation
 
 A simple web application that demonstrates SVG path animation using Anime.js.
 
