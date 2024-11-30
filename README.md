@@ -11,8 +11,8 @@ A simple web application that demonstrates SVG path animation using Anime.js.
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
-cd [your-repo-name]
+git clone https://github.com/floguo/svg-signature.git
+cd svg-signature
 ```
 
 2. Install dependencies:
